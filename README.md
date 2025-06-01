@@ -38,7 +38,7 @@ Digital Oasis - Login & Signup UI (Light/Dark Mode) | 2025/
 ## 📥 How to Use
 
 1. Clone the repository:
-   git clone https://github.com/DevSahilCode31/digital-oasis-login-signup-ui/edit/main/README.md
+   git clone https://github.com/DevSahilCode31/digital-oasis-login-signup-ui
 Open index.html in your browser.
 
 Customize the design and integrate with backend as needed.
@@ -52,7 +52,7 @@ This project is licensed under the MIT License.
 Don't forget to star ⭐ the repo if you find it helpful!
 
 Let me know if you'd like to include:
-- **Live demo link (https://modern-login-signup-form-ui-design.netlify.app/)**
+- **Live demo link (https://digital-oasis-login-ui.netlify.app/)**
   
 #LoginUI #SignupForm #WebDesign #HTMLCSSJS #FrontendDevelopment
 
